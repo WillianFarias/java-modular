@@ -1,4 +1,4 @@
-package br.com.digital.innovation.operacao;
+package br.com.digital.innovation.utils.operacao.internal;
 
 public interface Operacao {
 

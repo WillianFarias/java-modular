@@ -1,6 +1,4 @@
-package br.com.digital.innovation.operacao.internal;
-
-import br.com.digital.innovation.operacao.Operacao;
+package br.com.digital.innovation.utils.operacao.internal;
 
 public class SubHelper implements Operacao {
 
