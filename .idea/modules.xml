@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/br.com.digital.innovation/br.com.digital.innovation.iml" filepath="$PROJECT_DIR$/br.com.digital.innovation/br.com.digital.innovation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br.com.digital.innovation.test/br.com.digital.innovation.test.iml" filepath="$PROJECT_DIR$/br.com.digital.innovation.test/br.com.digital.innovation.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/br.com.digital.innovation.utils/br.com.digital.innovation.utils.iml" filepath="$PROJECT_DIR$/br.com.digital.innovation.utils/br.com.digital.innovation.utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-modular.iml" filepath="$PROJECT_DIR$/java-modular.iml" />
     </modules>
